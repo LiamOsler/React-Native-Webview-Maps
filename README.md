@@ -9,7 +9,7 @@ Android devices:
 1. Clone the repository
 2. CD into the cloned directory
 3. Install required packages: `npm install`
-4. Run the application: `npm run android`
+4. Run the application: `npm run android` or `npx expo start`
 
 ## Check out other implementations:
 ### ArcGIS Online:
